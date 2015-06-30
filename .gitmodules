@@ -1,0 +1,21 @@
+[submodule "erl_call"]
+	path = erl_call
+	url = ssh+git://aur@aur4.archlinux.org/erl_call.git/
+[submodule "soundsense"]
+	path = soundsense
+	url = ssh+git://aur@aur4.archlinux.org/soundsense.git/
+[submodule "shairplay-git"]
+	path = shairplay-git
+	url = ssh+git://aur@aur4.archlinux.org/shairplay-git.git/
+[submodule "rebar3-git"]
+	path = rebar3-git
+	url = ssh+git://aur@aur4.archlinux.org/rebar3-git.git/
+[submodule "rebar3"]
+	path = rebar3
+	url = ssh+git://aur@aur4.archlinux.org/rebar3.git/
+[submodule "quickfort-git"]
+	path = quickfort-git
+	url = ssh+git://aur@aur4.archlinux.org/quickfort-git.git/
+[submodule "dwarffortress-spacefox"]
+	path = dwarffortress-spacefox
+	url = ssh+git://aur@aur4.archlinux.org/dwarffortress-spacefox.git/

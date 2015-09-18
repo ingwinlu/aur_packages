@@ -19,3 +19,6 @@
 [submodule "dwarffortress-spacefox"]
 	path = dwarffortress-spacefox
 	url = ssh+git://aur@aur4.archlinux.org/dwarffortress-spacefox.git/
+[submodule "visual_erlang"]
+	path = visual_erlang
+	url = ssh+git://aur@aur4.archlinux.org/visual_erlang.git/

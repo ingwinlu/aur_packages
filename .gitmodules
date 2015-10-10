@@ -22,3 +22,6 @@
 [submodule "visual_erlang"]
 	path = visual_erlang
 	url = ssh+git://aur@aur4.archlinux.org/visual_erlang.git/
+[submodule "chromium-incognito"]
+	path = chromium-incognito
+	url = ssh+git://aur@aur4.archlinux.org/chromium-incognito.git/

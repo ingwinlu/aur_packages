@@ -25,3 +25,6 @@
 [submodule "chromium-incognito"]
 	path = chromium-incognito
 	url = ssh+git://aur@aur4.archlinux.org/chromium-incognito.git/
+[submodule "lambdapad-git"]
+	path = lambdapad-git
+	url = ssh+git://aur@aur4.archlinux.org/lambdapad-git.git/

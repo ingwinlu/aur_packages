@@ -28,3 +28,6 @@
 [submodule "lambdapad-git"]
 	path = lambdapad-git
 	url = ssh+git://aur@aur4.archlinux.org/lambdapad-git.git/
+[submodule "rebar3-zsh"]
+	path = rebar3-zsh
+	url = ssh+git://aur@aur.archlinux.org/rebar3-zsh.git

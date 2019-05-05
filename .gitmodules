@@ -31,3 +31,9 @@
 [submodule "rebar3-zsh"]
 	path = rebar3-zsh
 	url = ssh+git://aur@aur.archlinux.org/rebar3-zsh.git
+[submodule "minio-mc-bin"]
+	path = minio-mc-bin
+	url = ssh://aur@aur.archlinux.org/minio-mc-bin.git
+[submodule "camel-k-bin"]
+	path = camel-k-bin
+	url = ssh://aur@aur.archlinux.org/camel-k-bin.git
